@@ -43,9 +43,3 @@ PureWave Detergents is a lightweight Point of Sale (POS) desktop application dev
 ![Admin Login](screenshots/admin_login.png)
 
 > *(Make sure to place your screenshots in a `screenshots/` folder for them to render correctly.)*
-
-## 🧑‍💻 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Dinzy123/CSharp-POS.git
