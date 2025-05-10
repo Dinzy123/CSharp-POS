@@ -41,5 +41,3 @@ PureWave Detergents is a lightweight Point of Sale (POS) desktop application dev
 
 ### 🔐 Admin Login
 ![Admin Login](screenshots/admin_login.png)
-
-> *(Make sure to place your screenshots in a `screenshots/` folder for them to render correctly.)*
